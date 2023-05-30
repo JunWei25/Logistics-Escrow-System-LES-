@@ -1,2 +1,2 @@
-# Logistics-Escrow-System-LES-
-Blockchain Development (BCD) Assignment
+# Blockchain-Assignment
+Blockchain based Logistics Escrow System 
