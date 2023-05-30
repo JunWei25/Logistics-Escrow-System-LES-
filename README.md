@@ -24,7 +24,7 @@ After data being decrypted:
 ![image](https://github.com/JunWei25/Logistics-Escrow-System-LES-/assets/90762158/85557ab5-6b8a-4335-abbc-467691191e9b)
 
 ### Hashing
-Password being hashed
+Password being hashed <br>
 ![image](https://github.com/JunWei25/Logistics-Escrow-System-LES-/assets/90762158/5c7dcf3f-ad68-43a0-9ebc-2e77010f5190)
 
 ### Block data
