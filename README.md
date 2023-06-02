@@ -6,6 +6,9 @@ Front end: Java Swing <br>
 Back end: Txt <br>
 Other technologies: Hashing, Encryption, Asymetric Encryption, Symmetric Encryption, Block data, Digital Signature.
 
+### Time Taken to complete:
+14 days
+
 ## LES Blockchain Architecture Model
 ![image](https://github.com/JunWei25/Logistics-Escrow-System-LES-/assets/90762158/13055f16-3549-4939-9ea3-946cccc9102f)
 
